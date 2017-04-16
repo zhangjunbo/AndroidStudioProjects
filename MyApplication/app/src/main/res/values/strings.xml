@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">注册和登陆</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
